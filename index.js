@@ -44,7 +44,7 @@ function renderPage() {
               <div class="nav-link" data-bs-toggle="modal" data-bs-target="#basket">Корзина</div>
             </li>
           </ul>
-          <div class="nav-link active" aria-current="page" onclick="renderAdminPage()">Админка</div>
+          <div class="admin-link nav-link active" aria-current="page" onclick="renderAdminPage()">Админка</div>
           <form id="found" class="d-flex" role="search">
             <input id="search" class="form-control me-2" type="search" placeholder="Поиск" aria-label="Search">
             <div id="found-products"></div>
