@@ -1,6 +1,6 @@
 let products
 
-let page = 'admin'
+let page = 'user'
 
 fetch('./products.json').then(res => res.json()).then(json => {
   products = json
