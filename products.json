@@ -1,0 +1,65 @@
+[
+    {
+        "id": 0,
+        "name": "Poco X4 Pro 5G 6/128GB Yellow",
+        "price": 12999,
+        "img": "https://i.allo.ua/media/catalog/product/cache/3/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/p/m/pms_1645778744.12147256.jpg",
+        "category": "smartphone",
+        "sale": false,
+        "rating": 1
+    },
+    {
+        "id": 1,
+        "name": "Планшет Xiaomi Pad 5 10.9” 6/128GB Cosmic Gray",
+        "price": 12999,
+        "img": "https://i.allo.ua/media/catalog/product/cache/3/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/7/8/78867868678_3.jpg",
+        "category": "tablet",
+        "sale": false,
+        "rating": 1
+    },
+    {
+        "id": 2,
+        "name": "Xiaomi 12X 5G 8/128GB Gray (2112123AG)",
+        "price": 22999,
+        "img": "https://i.allo.ua/media/catalog/product/cache/3/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/p/m/pms_1648782872.32459166.jpg",
+        "category": "smartphone",
+        "sale": false,
+        "rating": 1
+    },
+    {
+        "id": 3,
+        "name": "Ноутбук Mi RedmiBook 14 II R5/16/512/W (JYU4260CN)",
+        "price": 23499,
+        "img": "https://i.allo.ua/media/catalog/product/cache/3/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/1/8/1845134_result.jpg",
+        "category": "notebook",
+        "sale": true,
+        "rating": 1
+    },
+    {
+        "id": 4,
+        "name": "Ноутбук Apple MacBook Air 13 M1 (MGN63) Space Grey",
+        "price": 39999,
+        "img": "https://i.allo.ua/media/catalog/product/cache/3/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/w/w/wwru_macbook-air_q121_spacegray_pdp-image-1_1.jpg",
+        "category": "notebook",
+        "sale": true,
+        "rating": 1
+    },
+    {
+        "id": 5,
+        "name": "Планшет Lenovo Tab M10 FHD Plus (2nd Gen) LTE 64 GB Platinum Grey",
+        "price": 8499,
+        "img": "https://i.allo.ua/media/catalog/product/cache/3/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/1/9/193988499.jpg",
+        "category": "tablet",
+        "sale": false,
+        "rating": 1
+    },
+    {
+        "id": 6,
+        "name": "Ноутбук Mi RedmiBook 14 II R5/16/512/W (JYU4260CN)",
+        "price": 23499,
+        "img": "https://i.allo.ua/media/catalog/product/cache/3/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/1/8/1845134_result.jpg",
+        "category": "notebook",
+        "sale": true,
+        "rating": 1
+    }
+]
