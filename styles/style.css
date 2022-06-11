@@ -9,6 +9,10 @@
   cursor: pointer;
 }
 
+.admin-link {
+  margin-right: 20px;
+}
+
 #found {
   position: relative;
 }
